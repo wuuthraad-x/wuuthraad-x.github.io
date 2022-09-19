@@ -1,3 +1,3 @@
 # wuuthraad-x.github.io
 
-Portfoliio website... It is a continous improvement 
+Portfolio website... It is a continous improvement 
